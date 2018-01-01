@@ -1,0 +1,29 @@
+{
+	"siteListData":[
+		{
+			"url":"http://www.black-terrace.com/",
+			"title":"BLACK TERRACE",
+      "thumb":"bt.jpg"
+		},
+		{
+			"url":"http://seshucm.com/",
+			"title":"世州伝播",
+      "thumb":"seshu.jpg"
+		},
+		{
+			"url":"http://hibeer.jp/",
+			"title":"ヒビヤガーデン",
+      "thumb":"hibeer.jpg"
+		},
+		{
+			"url":"http://www.chigusa.co.jp/",
+			"title":"千草ホテル",
+      "thumb":"chigusa.jpg"
+		},
+		{
+			"url":"http://www.u-can.co.jp/change_labo/",
+			"title":"UCAN イベントサイト",
+      "thumb":"ucan.jpg"
+		}
+	]
+}
