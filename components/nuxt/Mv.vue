@@ -4,7 +4,7 @@
       <h1><a href="/">Masaki Tomotsuka</a></h1>
       <div class="sns">
         <a href="https://www.facebook.com/pnk.mnmt" target="_blank">f</a>
-        <a href="https://twitter.com/_minapin_" target="_blank">t</a>
+        <!-- <a href="https://twitter.com/_minapin_" target="_blank">t</a> -->
         <a href="https://github.com/masakitm" target="_blank">G</a>
         <a href="https://qiita.com/minapin" target="_blank">Q</a>
       </div>

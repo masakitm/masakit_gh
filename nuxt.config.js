@@ -8,5 +8,11 @@ module.exports = {
   },
   css: [
     'assets/main.css'
-  ]
+  ],
+  generate: {
+    dir: 'docs'
+  },
+  build: {
+    publicPath: '_nuxt/'
+  }
 }
